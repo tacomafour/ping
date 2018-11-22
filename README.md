@@ -1,11 +1,11 @@
 # ping
 A Portable Network Graphics (PING) Library
 
-##Overview
+## Overview
 **ping** is a lightweight and extensible library for working at the chunk level of a Portable Network 
 Graphics formatted image.
 
-##Specification
+## Specification
 The [PNG (Portable Network Graphics) Specification, Version 1.2](http://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html), 
 was used as the basis for this lightweight and extensible library.   
 
